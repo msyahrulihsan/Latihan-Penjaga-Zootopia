@@ -1,4 +1,4 @@
-console.log("=== LATIHAN PENJAGA ZOOTOPIA");
+console.log("=== LATIHAN PENJAGA ZOOTOPIA ===");
 
 let penjaga = [{nama: "Judy Hopps", jarak: 3}, {nama: "Nick Wilde", jarak: 2}];
 
